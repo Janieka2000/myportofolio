@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Jani Eka Virnanda - Portofolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Jani Eka Virnanda</h1>
+            <p>Hotel Receptionist | Customer Service | Hospitality Enthusiast</p>
+        </div>
+    </header>
+
+    <section id="about">
+        <div class="container">
+            <h2>Tentang Saya</h2>
+            <p>Saya adalah seorang profesional di industri perhotelan dengan pengalaman dalam pelayanan pelanggan dan manajemen hotel. Berkomitmen untuk memberikan pengalaman terbaik bagi tamu dan selalu berusaha untuk berkembang dalam karier saya.</p>
+        </div>
+    </section>
+
+    <section id="contact">
+        <div class="container">
+            <h2>Kontak</h2>
+            <p>Email: <a href="mailto:janieka.virnanda@example.com">janieka.virnanda@example.com</a></p>
+            <p>Telepon: +62 812 3456 7890</p>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 Jani Eka Virnanda. Semua hak cipta dilindungi.</p>
+        </div>
+    </footer>
+</body>
+</html>
